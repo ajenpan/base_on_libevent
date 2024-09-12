@@ -9,3 +9,4 @@ src/Version.h
 out
 /src/usermatchv2
 /CMakeSettings.json
+vcpkg_installed
