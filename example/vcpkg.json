@@ -1,0 +1,7 @@
+{
+  "dependencies": [
+    "libevent",
+    "curl",
+    "spdlog"
+  ]
+}

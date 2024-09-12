@@ -1,0 +1,11 @@
+build_cmake
+bin.*
+.vscode
+*.cbp
+.vs
+src/Version.h
+/build
+/cmake-build
+out
+/src/usermatchv2
+/CMakeSettings.json
